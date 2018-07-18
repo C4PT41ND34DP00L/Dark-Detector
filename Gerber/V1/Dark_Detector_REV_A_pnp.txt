@@ -1,0 +1,40 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Dark_Detector_REV_A
+*Date=07:04:56
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;2.33862;-8.42086;0;Bottom;IMG1
+2;;;21.0566;-6.1175;0;Bottom;Copper Fill41
+3;;;28.5134;-4.24099;0;Bottom;IMG2
+4;;;30.2458;-12.6382;0;Bottom;TXT2
+5;;;20.6756;-7.5907;0;Bottom;Copper Fill42
+6;;;24.0792;-6.9303;0;Bottom;Via1
+7;;;31.31;-10.0878;0;Bottom;TXT1
+8;100;THT;15.5465;-13.0791;0;Bottom;R2
+9;;;28.8251;-13.7427;0;Bottom;TXT3
+10;;THT;37.5778;-7.77684;0;Bottom;J2
+11;;;31.268;-4.83706;0;Bottom;TXT1
+12;;TO92 [THT];17.6888;-8.38205;90;Bottom;Q1
+13;;;24.8037;-12.6954;0;Bottom;TXT5
+14;;;24.6466;-3.32811;0;Bottom;TXT6
+15;;THT;3.21588;-7.81831;180;Bottom;J1
+16;;;11.4227;-7.3988;0;Bottom;Hole2
+17;;THT;25.9173;-8.39249;180;Bottom;LDR
+18;;;26.8001;-10.8961;0;Bottom;Hole1
+19;5k;THT;15.9131;-2.73563;0;Bottom;R1
+20;;;9.14993;-4.69228;0;Bottom;TXT1
+21;;;9.23572;-10.0469;0;Bottom;TXT1
+22;;;27.202;-2.08267;0;Bottom;TXT4
+23;;;19.8628;-9.1147;0;Bottom;Copper Fill40
+24;;;15.5448;-13.5597;0;Bottom;Copper Fill39
+25;;;20.6756;-7.5907;0;Bottom;Copper Fill38

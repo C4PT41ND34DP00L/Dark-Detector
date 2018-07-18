@@ -1,0 +1,31 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Dark_Detector_V_3_REV_A
+*Date=13:20:49
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;31.4452;-9.0929;0;Bottom;Copper Fill2
+2;220;THT;29.6193;-2.46059;0;Bottom;R2
+3;;THT;16.4619;-2.33979;0;Bottom;R3
+4;;;22.4282;-2.0825;0;Bottom;Copper Fill8
+5;;300 mil [THT];16.1808;-9.31148;180;Bottom;D1
+6;;;20.2692;-5.3845;0;Bottom;Copper Fill1
+7;;THT;48.9407;-5.39085;0;Bottom;J2
+8;;;39.116;-5.3845;0;Bottom;Copper Fill9
+9;;;17.4244;-5.3845;0;Bottom;Copper Fill6
+10;220;THT;30.1552;-9.26895;180;Bottom;R1
+11;;TO92 [THT];40.0622;-5.92219;90;Bottom;Q1
+12;;;46.9392;-5.3845;0;Bottom;Copper Fill4
+13;;THT;5.38356;-5.6205;180;Bottom;J1
+14;;;37.8206;-8.8643;0;Bottom;Copper Fill3
+15;;;37.9476;-8.6103;0;Bottom;Copper Fill7
+16;;;37.6174;-1.8285;0;Bottom;Copper Fill5
